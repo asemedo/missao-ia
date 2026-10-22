@@ -1,13 +1,47 @@
-# Missão IA — portal pronto para GitHub Pages
+# Missão IA — Será que as máquinas pensam?
 
-1. Crie um repositório **público** chamado `missao-ia` na sua conta GitHub.
-2. Escolha **Add file → Upload files** e carregue o CONTEÚDO desta pasta, incluindo as pastas `missao-ia` e `downloads`. Não carregue apenas o ZIP nem a pasta exterior. Confirme que `index.html` aparece na raiz. Faça **Commit changes**.
-3. Em **Settings → Pages → Build and deployment**, escolha **Deploy from a branch**, ramo `main`, pasta **/(root)** e **Save**.
-4. Aguarde a publicação e abra o endereço indicado pelo GitHub. Ative **Enforce HTTPS** quando disponível. Teste «Jogar agora», a descarga do ZIP e o certificado. O URL esperado tem a forma `https://SEU-UTILIZADOR.github.io/missao-ia/`; só o considere publicado depois de o abrir com sucesso.
+Uma aventura educativa em português de Portugal para alunos do 2.º ciclo, com quatro missões para explorar a inteligência artificial com curiosidade e sentido crítico. O BIT acompanha os alunos num percurso de descoberta, experimentação, verificação e uso responsável.
 
-Guia oficial: https://docs.github.com/en/pages/getting-started-with-github-pages/creating-a-github-pages-site
+Projeto desenvolvido a partir de uma proposta de atividade da formação ANPRI frequentada pelo autor.
 
-## Offline
-O botão do portal descarrega o ZIP original da Edição Escola (v1.5.3). Extraia-o e abra `missao-ia/index.html`. O portal também abre localmente, após extrair o pacote completo. O jogo e o BIT foram copiados sem alterações; a chave de progresso continua `missao-ia-v1.5`. O armazenamento pertence ao navegador e origem: uma mudança de domínio, protocolo, perfil ou contexto file pode criar um registo separado. Não há migração automática entre online e offline.
+## Jogar
 
-Autoria e supervisão pedagógica: António Semedo. Colaboração: ChatGPT / OpenAI.
+[Abrir o portal Missão IA](https://asemedo.github.io/missao-ia/) e selecionar **Jogar agora**.
+
+## Quatro missões
+
+- **Detetives da IA:** distinguir exemplos de IA de automatismos simples.
+- **Ensina o BIT!:** experimentar um treino simulado e compreender a importância de exemplos variados.
+- **Verdade ou invenção?:** verificar informação e comparar fontes.
+- **Super-heróis Digitais:** proteger dados pessoais e fazer escolhas responsáveis.
+
+O jogo inclui pontuações, explicações, música e efeitos opcionais, animações e certificado de conclusão. A Missão 2 não tem pontuação. O certificado é um registo educativo local, sem autenticação oficial.
+
+## Edição Escola — sem Internet
+
+No portal online, selecionar **Descarregar versão offline**. Extrair todo o ZIP antes de abrir os ficheiros.
+
+- Abrir `index.html` para entrar no portal local.
+- Ou abrir `missao-ia/index.html` para entrar diretamente no jogo.
+- Manter os ficheiros e pastas juntos. **← Voltar ao portal** regressa à página de entrada local.
+
+Não é necessário registo, instalação ou ligação à Internet depois da extração. O navegador deve permitir JavaScript.
+
+## Progresso e utilização
+
+O progresso é guardado localmente no navegador. Sair para o portal e regressar ao jogo preserva o progresso no mesmo navegador e contexto de armazenamento. Não há sincronização automática entre computadores, perfis, versão online e ficheiros offline.
+
+Para conservar o progresso, manter o mesmo navegador, perfil e endereço; na edição offline, manter também o caminho da pasta. Não limpar os dados do navegador. O nome introduzido para o certificado não é guardado no progresso.
+
+Os controlos podem ser percorridos com **Tab** e ativados com **Enter** ou **Espaço**, conforme o tipo de controlo. Música e efeitos começam desligados. A interface adapta-se a ecrãs pequenos e respeita a preferência de redução de movimento.
+
+## Autoria e créditos
+
+**Autoria e supervisão pedagógica:** António Semedo.  
+**Colaboração:** ChatGPT / OpenAI.
+
+Base do jogo: **v1.5.3**, com correção de regresso ao portal. Consultar os [créditos](missao-ia/CREDITOS.md) e as [referências](missao-ia/REFERENCIAS.md).
+
+## Manutenção
+
+As instruções para atualizar o repositório e publicar no GitHub Pages estão em [PUBLICAR.md](PUBLICAR.md). A verificação da correção está em [RELATORIO-NAVEGACAO.md](RELATORIO-NAVEGACAO.md).

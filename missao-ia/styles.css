@@ -125,3 +125,8 @@ button:focus-visible,a:focus-visible,input:focus-visible,summary:focus-visible{o
 
 /* v1.5.3: align audience capsule with the upper part of IA. */
 .title-year{vertical-align:top;margin-top:.65em}
+
+/* Regresso ao portal: navegação nativa, sem alterar o progresso. */
+.portal-return{color:var(--ink);font-size:13px;font-weight:700;min-height:44px;display:inline-flex;align-items:center;padding:8px 10px;text-underline-offset:3px;border-radius:6px}
+@media(max-width:620px){.portal-return{order:3;flex-basis:100%}}
+@media print{.portal-return{display:none!important}}
