@@ -1,0 +1,58 @@
+MISSÃO IA v1.5.3 — EDIÇÃO ESCOLA
+Será que as máquinas pensam?
+
+PARA COMEÇAR
+1. Extrai TODO o ZIP para uma pasta local. Não abras o jogo dentro do ZIP.
+2. Abre missao-ia/index.html no Google Chrome. Não é necessário instalar,
+   iniciar um servidor ou ter Internet. Mantém os ficheiros juntos.
+3. Ativa o JavaScript se estiver bloqueado. Música e efeitos começam
+   desligados; podem ser ligados separadamente pelos botões no topo.
+
+PARA ALUNOS
+Escolhe as quatro missões no mapa, em qualquer ordem. Lê as instruções,
+experimenta e consulta as explicações. Tab percorre os controlos; Enter
+ou Espaço ativa os botões. O jogo respeita a preferência de movimento
+reduzido do sistema. BIT é uma personagem fictícia e o treino é simulado.
+
+As primeiras respostas confirmadas ficam registadas. As Missões 1, 3 e 4
+somam até 3300 pontos. A Missão 2 compara previsões antes e depois do treino
+e não atribui pontos ao aluno. Não há pontuação mínima para o certificado.
+
+GUARDAR E RETOMAR
+O progresso fica apenas no armazenamento local deste navegador, quando
+permitido. Usa o mesmo navegador, perfil e index.html na mesma pasta.
+Modo privado, limpeza de dados ou mudança de pasta podem perder o registo.
+Se surgir um aviso de falha ao guardar, mantém a página aberta até terminar
+e guardar o certificado. Esta edição não inclui progresso de teste.
+
+CERTIFICADO
+Depois de concluir as quatro missões, escolhe «Ver conclusão e certificado».
+O nome é opcional e não fica guardado no progresso. Guarda o PDF ou PNG.
+Se a transferência estiver bloqueada, usa «Imprimir certificado / Guardar
+como PDF» ou guarda a imagem da pré-visualização pelo menu do navegador.
+O PDF contém uma imagem; o texto não é selecionável. A data corresponde
+à conclusão da última missão segundo o relógio do computador.
+O certificado é um registo educativo local, sem autenticação oficial.
+
+PARA PROFESSORES
+Destinatários: 5.º e 6.º anos. Explore reconhecimento e limites da IA,
+aprendizagem com exemplos, verificação de informação e uso responsável.
+Distribua a pasta completa e confirme a abertura no equipamento da escola.
+Consulte «Sobre o jogo / Ficha técnica», CREDITOS.md, REFERENCIAS.md e
+FICHA-TECNICA.md. As fichas necessárias às missões já estão incluídas;
+os endereços bibliográficos servem para consulta facultativa com Internet.
+Para entrega no Classroom, o aluno guarda o certificado e anexa-o à tarefa
+quando tiver rede. O jogo não envia dados nem ficheiros.
+
+Num computador partilhado, o comando de reinício do próprio jogo apaga
+as escolhas deste jogo após confirmação; não apaga certificados guardados.
+A preparação deste pacote não alterou dados de qualquer navegador.
+Não é preciso fornecer dados reais, fotografias ou palavras-passe.
+
+SOBRE ESTA EDIÇÃO
+Base exclusiva: ZIP aprovado missao-ia-v1.5.3.zip. Código, conteúdo, layout,
+acessibilidade e formato do progresso preservados byte a byte.
+A ficha interna ainda indica 1.5.1 e os créditos referem 1.5: são textos da
+base aprovada, mantidos para preservar o jogo. A versão do pacote é 1.5.3.
+Testes e limitações desta distribuição: consultar o relatório que acompanha
+o ZIP. Não foi feita nova validação científica das fontes nem estudo em turma.

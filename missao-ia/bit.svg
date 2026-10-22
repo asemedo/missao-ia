@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 420 440" role="img" aria-labelledby="title desc">
+<title id="title">BIT, o teu companheiro de missão</title><desc id="desc">Robô azul e lilás com antena amarela, olhos expressivos e um pequeno coração de circuitos.</desc>
+<g stroke="#242351" stroke-width="7" stroke-linejoin="round" stroke-linecap="round">
+<ellipse cx="214" cy="408" rx="122" ry="16" fill="#242351" opacity=".12" stroke="none"/>
+<path d="m160 344-13 45q17 19 49 3l8-45m54-3 13 45q-17 19-49 3l-8-45" fill="#8d7bea"/>
+<path d="M126 255q-35-17-48 26l-20 33 30 16 29-35m178-39 30-34 15-46 28 9-6 55-38 49" fill="#63d7e7"/>
+<path d="m339 185-7-27m17 25 5-29m6 34 18-21" fill="none"/>
+<rect x="124" y="244" width="175" height="117" rx="38" fill="#8d7bea"/>
+<path d="M154 268h113v65H154z" fill="#f9f6ea"/>
+<path d="m195 287 15 13 15-13 12 12-27 23-27-23z" fill="#ff8b86" stroke-width="4"/>
+<path d="M210 101V65" fill="none"/><circle cx="210" cy="51" r="17" fill="#ffce55"/>
+<rect x="76" y="155" width="37" height="60" rx="15" fill="#8d7bea"/><rect x="308" y="155" width="37" height="60" rx="15" fill="#8d7bea"/>
+<rect x="99" y="100" width="222" height="157" rx="49" fill="#63d7e7"/>
+<path d="M125 125q14-12 38-12" stroke="white" opacity=".8"/>
+<rect x="124" y="141" width="172" height="80" rx="29" fill="#242351"/>
+<path d="M151 176q12-20 24 0m71 0q12-20 24 0" stroke="#a2f5ed" fill="none"/>
+<path d="M194 192q16 15 32 0" stroke="#a2f5ed" stroke-width="5" fill="none"/>
+<path d="m51 110-16-13m23-8-3-20m305 35 16-13" stroke="#8d7bea"/>
+<path d="m60 360 7-16 7 16 17 7-17 7-7 16-7-16-17-7z" fill="#ffce55" stroke-width="4"/>
+</g></svg>
